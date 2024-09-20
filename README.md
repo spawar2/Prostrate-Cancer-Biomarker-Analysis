@@ -9,4 +9,4 @@ https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA. ht
 ![Zion-Presentation](https://github.com/spawar2/Prostrate-Cancer-Biomarker-Analysis/assets/25118302/519fff40-bf7a-46bd-af63-3e158e722738)
 
 Prostrate-Cancer.R: Affymetrix microarray data read, robust multi array (RMA) Normalization , Box plotting.
-function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table)
+selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table)
