@@ -10,3 +10,9 @@ https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA. ht
 
 Prostrate-Cancer.R: Affymetrix microarray data read, robust multi array (RMA) Normalization , Box plotting.
 selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table).
+
+**Ms. Arianna Sanders, Analyzing Coronavirus disease 2019 (COVID-19) data for predicting mortality rates using machine learning techniques, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2024). π​+. https://www.linkedin.com/in/arianna-sanders-6257031a4 π​+.
+
+**Mr. Oluwademiladeayo Ashade, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2024). Autism and Attention Deficit Disorder biomarkers. π​+.​ https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0 π​+.
+
+​**Ms. Anaiya Fredrick, Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) and HSV-1/HSV-2 , Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023),https://www.linkedin.com/in/anaiya-fredrick π​++.
