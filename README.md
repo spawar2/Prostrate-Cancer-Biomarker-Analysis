@@ -16,3 +16,6 @@ selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests,
 **Mr. Oluwademiladeayo Ashade, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2024). Autism and Attention Deficit Disorder biomarkers. π​+.​ https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0 π​+.
 
 ​**Ms. Anaiya Fredrick, Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) and HSV-1/HSV-2 , Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023),https://www.linkedin.com/in/anaiya-fredrick π​++.
+
+Programming language: + Python.
+π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
