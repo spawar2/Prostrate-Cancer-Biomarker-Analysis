@@ -17,5 +17,12 @@ selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests,
 
 ​**Ms. Anaiya Fredrick, Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) and HSV-1/HSV-2 , Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023),https://www.linkedin.com/in/anaiya-fredrick π​++.
 
+**Ms. Germari Cull+π (URISE mentor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023), (Title III and Special Initiative Office SEED Funding, Claflin University, Orangeburg, South Carolina, Role: PI, (Direct costs, Effort=100%)) Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) and HSV-1/HSV-2 , Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023), ++. Establishing a comprehensive sports analytics framework harnessing the capabilities of Power BI. https://www.linkedin.com/in/germari-cull-a9b980264 https://curise.net/rise-mentors/ 
+
+**Mr. Adrian Lockwood+π, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023), Land Cover Classification by Using Hyperspectral images (URISE mentor). https://www.linkedin.com/in/adrian-lockwood-703244109  
+
+
+
+
 Programming language: + Python.
 π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
