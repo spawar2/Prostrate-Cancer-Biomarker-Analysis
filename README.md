@@ -22,7 +22,7 @@ selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests,
 **Mr. Adrian Lockwood+π, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023), Land Cover Classification by Using Hyperspectral images (URISE mentor). https://www.linkedin.com/in/adrian-lockwood-703244109  
 
 
-
+Normalized-plot.pdf
 
 Programming language: + Python.
 π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
