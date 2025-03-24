@@ -15,7 +15,9 @@ selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests,
 
 **Ms. Arianna Sanders (Thesis Advisor), Analyzing Coronavirus disease 2019 (COVID-19) data for predicting mortality rates using machine learning techniques, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2024). π​+. https://www.linkedin.com/in/arianna-sanders-6257031a4 π​+.
 
-**Mr. Oluwademiladeayo Ashade (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2024). Autism and Attention Deficit Disorder biomarkers. π​+.​ https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0 π​+.
+**Mr. Oluwademiladeayo Ashade (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2024). Autism and Attention Deficit Disorder biomarkers. π​+.​ https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0 π​+. https://www.linkedin.com/in/tzuriel-murray-9909241b5 https://13bad1a9-9b80-4861-a753-3526e5ebd279.filesusr.com/ugd/81dd80_fbb57ab6394f4939a6db13360f422313.docx?dn=CSCI%20392%20Research%20Topic%20Document.docx 
+
+**Mr. Tzuriel Murray, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023). "Analyzing trends in COVID infections", Thesis Outline, ++. π:. 
 
 ​**Ms. Anaiya Fredrick (Thesis Advisor), Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) and HSV-1/HSV-2 , Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023),https://www.linkedin.com/in/anaiya-fredrick π​++.
 
