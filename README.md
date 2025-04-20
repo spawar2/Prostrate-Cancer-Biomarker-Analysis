@@ -3,7 +3,7 @@ https://campuspress.yale.edu/shrikantpawar/files/2024/04/ROLE-CIRCULATION-BIOMAR
 https://campuspress.yale.edu/shrikantpawar/files/2024/01/Final-Prospectus-Edited-7e17c09b3e8c4813.pdf
 [R: edgeR, hgu133plus2.db, tidyverse, Affy]. United States of America (USA).
 This project in collaboration with **Zion Rachford (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). https://github.com/zionanari: Video presentation:  https://campuspress.yale.edu/shrikantpawar/files/2024/04/Zion-Presentation-80fd6d81d5b4f75b-rotated-e1712021318501-225x300.jpg
-https://www.linkedin.com/in/zion-ratchford-07514b1b9
+https://www.linkedin.com/in/zion-ratchford-07514b1b9 Presently Associate Scientist at DPX Technologies. 
 https://campuspress.yale.edu/shrikantpawar/files/2024/01/Final-Prospectus-Edited-7e17c09b3e8c4813.pdf
 https://campuspress.yale.edu/shrikantpawar/files/2024/04/ROLE-CIRCULATION-BIOMARKERS-IN-PROSTATE-CANCER-DIAGNOSIS-4dbb44b57f793d6a.pptx
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA. https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
